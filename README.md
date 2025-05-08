@@ -5,6 +5,7 @@
 ## Software vision team:
 - [Salvador Cantuarias](https://www.linkedin.com/in/salvador-cantuarias-bb5715268/)
 - [Nouhaila Elmalouli](https://www.linkedin.com/in/nouhaila-elmalouli-46517a208/)
+- [Yashashvi Agrawal](https://www.linkedin.com/in/yashashvi-agrawal-b8a921200/)
 
 ## Tasks:
 >**2025-04-11:** <br>
