@@ -72,4 +72,24 @@
 >>>**assigned to:** Salvador<br>
 >>
 >>**Observations:** <br>
+
+>**2025-04-29:** <br>
+>>>Getting detection parameters for path team.<br>
+>>>**status:** `NOT STARTED`<br>
+>>>**assigned to:** Salvador<br>
+>>
+>>**Observations:** <br>
+>>
+>>>Detect cardinal buoys using SIFT.<br>
+>>>**status:** `STARTED`<br>
+>>>**assigned to:** Salvador<br>
+>>
+>>**Observations:** <br>
+>>- The SIFT model is able to diferentiate between the different cardinal points, but it doesnt scale well with upcoming buoys that have a different pixel count.
+>>
+>>>Use Yolo models to do object segmentation.
+>>**status:** `NOT STARTED`<br>
+>>**assigned to:** Yashashvi<br>
+>>
+>>**Observations:**<br>
 >>
