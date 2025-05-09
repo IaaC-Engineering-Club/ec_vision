@@ -13,11 +13,12 @@
 
 # folder to ignore
 data/
-.ec_vision/
+.ec/
 src/__pycache__/
 
 # files to ignore vision.ipynb
 *src/vision.ipynb
+*src/Cardinals.py
 
 
 # exceptions
